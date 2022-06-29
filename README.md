@@ -1,3 +1,4 @@
+# Virtual Piano
 A Virtual Piano made with HTML, CSS, SASS and JavaScript
 i focused on training my JavaScript DOM, learn new CSS/SASS features and train my codepen/stackoverflow researches
   References:
